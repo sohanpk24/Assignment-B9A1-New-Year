@@ -80,6 +80,11 @@
    height: 500px;
  }
 
+
+/*  welcome-party-section   */
+
+
+
  section{
   margin-bottom: 145px;
  }
@@ -135,5 +140,56 @@
   background: none;
   border: none;
   margin-top: 20px;
+
+}
+
+/* hotel-info-section */
+
+.info-section{
+  width: 1320px;
+  height: 475px;
+  background-color: #FDDFD8;
+  border-radius: 15px;
+}
+
+.info-title{
+  width: 700px;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.info-items{
+ text-align: center;
+ padding-top: 100px;
+
+}
+
+.info-items p{
+ color: #070211;
+ font-weight: 700;
+ line-height: 45px;
+ text-align: center;
+ font-family: Inter;
+ font-size: 30px;
+}
+
+.info-items span{
+ color: #f20505;
+ text-align: center;
+ font-family: 'Inter';
+ font-size: 32px;
+ font-weight: 700;
+}
+
+.info-title button{
+  background: #f20505;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  color: #FFF;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
 
 }
