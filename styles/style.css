@@ -162,7 +162,6 @@
 .info-items{
  text-align: center;
  padding-top: 100px;
-
 }
 
 .info-items p{
@@ -191,5 +190,78 @@
   align-items: center;
   justify-content: center;
   margin-top: 50px;
+}
 
+/* 2024-celabriton-section */
+
+.offer-container{
+  width: 1320px;
+  height: 475px;
+  display: flex;
+}
+
+.offer-info{
+  width: 350px;
+  height: 125px;
+}
+
+.offer-info span{
+  color: #e20606;
+  font-weight: 600;
+}
+
+.offer-title h4{
+  font-size: 30px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+
+}
+
+.offer-info-p p {
+  line-height: 26px;
+}
+
+.offer-img {
+  width: 410px;
+  height: 410px;
+  border: 17px solid #e20606;
+  border-radius: 100%;
+  position: relative;
+  margin: auto;
+  display: flex;
+}
+
+.celabration-title {
+    padding-top: 135px;
+  
+  }
+
+
+.celabration-title h4 {
+  font-size: 47px;
+  font-weight: 700;
+  font-family: 'Inter';
+  color: #e20606;
+  margin-bottom: 10px;
+}
+
+.celabration-2024 {
+  width: 266px;
+  display: flex;
+  margin-top: 25px;
+}
+
+.offer-2024-p p {
+  color: #302E8E;
+  color: #07021199;
+  font-family: 'Inter';
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.offer-icon img {
+  width: 106px;
+  height: 106px;
+  margin-top: 25px;
 }
