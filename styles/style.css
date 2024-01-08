@@ -18,7 +18,6 @@
     height: 600px;
     border-radius: 18px;
     display: flex;
-    
  }
 
  .banner-title{
@@ -43,8 +42,8 @@
  /* main-section */
 
  .manu-container{
-   width: 1600px;
-   height: 7300px;
+   width: 700px;
+   height: 600px;
    text-align: center;
    margin-top: 40px;
    background: #fff;
@@ -73,12 +72,68 @@
    font-family: 'Inter';
    font-size: 45px;
    font-weight: 700;
-   
  }
 
  .container-img{
    margin-top: 30px;
    width: 800px;
    height: 500px;
- 
  }
+
+ section{
+  margin-bottom: 145px;
+ }
+
+ .welcome-container{
+  background-image:  linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+   url(../images/Vectorrr.png);
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  margin: auto;
+  display: flex;
+  border-radius: 18px;
+ }
+
+ .welcome-title{
+  width: 700px;
+  height: 500px;
+  margin-top: 150px;
+ }
+
+ .welcome-title h2{
+ color: #FFF;
+ font-family: Merriweather;
+ font-size: 60px;
+ font-weight: 900;
+ line-height: 80px;
+ letter-spacing: 7px;
+ margin-bottom: 15px;
+ }
+.welcome-title p{
+ color: #f1f0f0cc;
+ font-family: 'Inter';
+ font-size: 18px;
+ font-weight: 400;
+ line-height: 30px; 
+ margin-bottom: 15px;
+}
+
+ .welcome-img{
+  width: 315px;
+  height: 460px;
+  display: flex;
+ }
+
+.welcome-title button{
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  background: none;
+  border: none;
+  margin-top: 20px;
+
+}
