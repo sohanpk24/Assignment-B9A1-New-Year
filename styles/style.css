@@ -265,3 +265,97 @@
   height: 106px;
   margin-top: 25px;
 }
+
+/* sale-offer-section */
+
+.sale-container {
+  width: 1320px;
+  height: 470px;
+}
+
+.sale-offer {
+  width: 1000px;
+  text-align: center;
+}
+
+
+.sale-offer b{
+  color: #070211;
+  font-family: 'Inter';
+  font-size: 24px;
+  font-weight: 500;
+
+}
+
+.sale-offer h1 {
+  font-size: 70px;
+  font-weight: 900;
+  font-family: 'Inter';
+  height: 107px;
+}
+
+.sale-offer h1 span {
+  color: #e20606;
+}
+
+.sale-offer p {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33px;
+  text-align: center;
+  font-family: Inter;
+  justify-content: center;
+}
+
+/* discount-section */
+
+.discount-container{
+  width: 1320px;
+  height: 800px;
+  position: relative;
+
+}
+
+.discount-container img{
+  position: absolute;
+}
+
+/* portfolio-section */
+
+.portfolio-container{
+  width: 1320px;
+  height: 1200px;
+  margin: auto;
+}
+
+.portfolio-title {
+  width: 800px;
+  margin: initial;
+  margin-bottom: 40px;
+}
+
+.portfolio-title b {
+  color: #F00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.portfolio-title h2 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 50px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-bottom: 15px;
+}
+
+.portfolio-title p {
+  color: #07021199;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
